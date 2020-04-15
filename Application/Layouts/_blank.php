@@ -1,0 +1,1 @@
+<?php echo \Alcatraz\Kernel\Layout::getContent(); ?>
